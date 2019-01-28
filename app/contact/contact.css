@@ -1,16 +1,6 @@
-
-
-
-h1 {
-  color: blue;
-}
-
 /*********************************************************************************************
 Contact Page
 *********************************************************************************************/
-
-
-
 
 li {
   list-style: none;
@@ -22,8 +12,6 @@ a {
 a:hover {
   color: #FADCAE;
 }
-
-
 
 #page-background {
   background: linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6)), url('../images/contact-background.png');
@@ -62,6 +50,7 @@ a:hover {
   color: #FFF;
   font-family: 'Poppins', serif;
   font-weight: 300;
+  width: 800px;
 }
 
 .social-links-caption {
@@ -128,7 +117,7 @@ MEDIA QUERIES
 @media(max-height: 1920px) and (max-width: 2460px) and (min-width: 1441px) {
 
   .statement {
-    width: 500px;
+    width: 800px;
   }
 
   .nav-items {
@@ -144,7 +133,7 @@ MEDIA QUERIES
 @media(max-height: 1079px) and (min-height: 610px) and (max-width: 1440px) and (min-width: 1261px) {
 
   .statement {
-    width: 500px;
+    width: 700px;
   }
 
   .nav-items {
