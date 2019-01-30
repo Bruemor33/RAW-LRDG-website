@@ -132,7 +132,7 @@ Barry styling
   background: url('../images/1-barry.png');
   background-position: center;
   background-size: cover;
-  height: 260px;
+  height: 300px;
   width: 320px;
 }
 
@@ -198,7 +198,7 @@ Scott styling
   background: url('../images/2-scott.png');
   background-position: center;
   background-size: cover;
-  height: 260px;
+  height: 300px;
   width: 320px;
 }
 
@@ -253,15 +253,15 @@ jim styling
 }
 
 .jim-photo {
-  background: url('../images/1-jim.jpg');
+  background: url('../images/2-jim.jpg');
   background-position: center;
   background-size: cover;
-  height: 260px;
+  height: 300px;
   width: 320px;
 }
 
 .modal-picture-jim {
-  background: url('../images/1-jim.jpg');
+  background: url('../images/2-jim.jpg');
   background-position: center;
   background-size: cover;
   height: 260px;
@@ -314,7 +314,7 @@ john styling
   background: url('../images/1-john.jpg');
   background-position: center;
   background-size: cover;
-  height: 260px;
+  height: 300px;
   width: 320px;
 }
 
