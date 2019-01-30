@@ -117,7 +117,9 @@ MEDIA QUERIES
 @media(max-height: 1920px) and (max-width: 2460px) and (min-width: 1441px) {
 
   .statement {
-    width: 800px;
+    width: 900px;
+    height: 460px;
+    padding-right: 30px;
   }
 
   .nav-items {
@@ -126,6 +128,21 @@ MEDIA QUERIES
 
   .landing {
     margin-left: 60%;
+  }
+
+  .title {
+    position: fixed;
+    top: 20px;
+    width: 900px;
+    height: 70px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: -5px;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: #FFF;
+    font-family: 'Poppins', serif;
+    font-weight: 300;
+    font-size: 44px;
   }
 
 }
