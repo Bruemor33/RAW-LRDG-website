@@ -118,7 +118,7 @@ Nona Park Landing
 
 .nonapark-landing {
   margin-bottom: 10px;
-  color: #FADCAE;
+  color: #000;
 }
 .nonapark-landing a {
   text-decoration: none;
@@ -149,7 +149,7 @@ Kindred
 .kindred-writeup {
   border-radius: 15px;
   margin-bottom: 10px;
-  color: #FADCAE;
+  color: #000;
 
 }
 .kindred-writeup a {
@@ -191,7 +191,7 @@ Waterleigh
 
 .waterleigh-landing {
   margin-bottom: 10px;
-  color: #FADCAE;
+  color: #000;
 }
 .waterleigh-landing a {
   text-decoration: none;
@@ -450,6 +450,14 @@ MEDIA QUERIES
 
 }
 
+@media(min-width: 992px) and (max-width: 1439px) {
+
+  .project-one-container {
+    margin-bottom: 100px;
+  }
+
+}
+
 
 
 
@@ -549,9 +557,6 @@ Mobile Navigation QUERIES
   }
 
 
-
-}
-
   /***********************************************************
   PAGE Queries
   ***********************************************************/
@@ -574,7 +579,8 @@ Mobile Navigation QUERIES
   }
 
   .project-one-container {
-    top: 40px
+    top: 40px;
+    margin-left: 4%;
   }
 
   .top {
@@ -583,6 +589,11 @@ Mobile Navigation QUERIES
 
   .hover-effect-2 {
     width: 300px;
+  }
+
+  .effect img.top:hover {
+    bottom: -160px;
+    padding-top: 108px;
   }
 
   .mobile-label {
@@ -600,7 +611,7 @@ Mobile Navigation QUERIES
 
 
 /**************************************************************************************
-Mobile Navigation QUERIES
+Mobile QUERIES
 **************************************************************************************/
 
 
