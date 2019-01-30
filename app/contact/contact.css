@@ -246,7 +246,7 @@ Mobile Navigation QUERIES
 
   #page-background {
     position: static;
-    height: 780px;
+    height: 1000px;
   }
 
   .title {
@@ -264,8 +264,15 @@ Mobile Navigation QUERIES
     position: relative;
     top: 100px;
     width: 88%;
-    height: 380px;
+    height: 750px;
     margin-left: 5.5%;
+    margin-bottom: 20px;
+    padding-left: 0;
+    padding-right: 15px;
+  }
+
+  .statement .row {
+    padding-left: 0;
   }
 
 
