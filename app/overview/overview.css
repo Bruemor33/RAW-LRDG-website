@@ -237,7 +237,10 @@ Mobile Navigation QUERIES
     margin-left: 5.5%;
   }
 
-
+  /** Page Queries **/
+  .page-background {
+    height: 100%;
+  }
 
 }
 
