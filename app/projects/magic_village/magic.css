@@ -242,14 +242,6 @@ MEDIA QUERIES
     height: 620px;
   }
 
-  #site-nav {
-    top: 830px;
-  }
-
-  .navbar {
-    top: 830px;
-  }
-
   .logo {
     height: 113px;
     padding: 0;
@@ -281,14 +273,6 @@ MEDIA QUERIES
 
   #magic-four {
     height: 630px;
-  }
-
-  #site-nav {
-    top: 520px;
-  }
-
-  .navbar {
-    top: 520px;
   }
 
   .logo {
